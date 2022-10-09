@@ -17,6 +17,22 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Results
 
+### Resampling Models - Deliverable 1
+<img width="600" alt="balanced accuracy score" src="https://user-images.githubusercontent.com/104927745/194765342-d8bad24e-bb32-43fa-832c-8a4107a4ba85.PNG">
 
+<img width="600" alt="confusion matrix" src="https://user-images.githubusercontent.com/104927745/194765343-6bcd2c86-d42d-4f87-8532-cc761825db84.PNG">
+
+<img width="600" alt="classification report" src="https://user-images.githubusercontent.com/104927745/194765344-def36e16-2474-49cd-9e9c-f63d2b4246a2.PNG">
+ 
+
+
+### SMOTEENN Algorithm - Deliverable 2
+<img width="600" alt="smoteenn accuracy score" src="https://user-images.githubusercontent.com/104927745/194765316-f77466d3-59e5-4582-ae5b-2964888d09e3.PNG">
+
+<img width="600" alt="smoteenn confusion matrix" src="https://user-images.githubusercontent.com/104927745/194765318-277aa531-97cb-47cf-8cba-d096f4042590.PNG">
+
+<img width="600" alt="smoteenn classification report" src="https://user-images.githubusercontent.com/104927745/194765319-f7118ac0-072f-4e7f-9fa9-8304f009db73.PNG">
+
+### Ensemble Classifiers - Deliverable 3
 
 ## Summary
