@@ -25,7 +25,6 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 <img width="600" alt="classification report" src="https://user-images.githubusercontent.com/104927745/194765344-def36e16-2474-49cd-9e9c-f63d2b4246a2.PNG">
  
 
-
 ### SMOTEENN Algorithm - Deliverable 2
 <img width="600" alt="smoteenn accuracy score" src="https://user-images.githubusercontent.com/104927745/194765316-f77466d3-59e5-4582-ae5b-2964888d09e3.PNG">
 
@@ -33,6 +32,15 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 <img width="600" alt="smoteenn classification report" src="https://user-images.githubusercontent.com/104927745/194765319-f7118ac0-072f-4e7f-9fa9-8304f009db73.PNG">
 
+
 ### Ensemble Classifiers - Deliverable 3
+<img width="600" alt="BRFC Accuracy" src="https://user-images.githubusercontent.com/104927745/194767367-0bf15222-d6ac-49df-b438-906f77a42885.PNG">
+
+<img width="600" alt="BRFC confusion matrix" src="https://user-images.githubusercontent.com/104927745/194767368-dde773c3-1ff5-4314-b5af-cc239517ad2e.PNG">
+
+<img width="600" alt="BRFC classification report" src="https://user-images.githubusercontent.com/104927745/194767370-67da4932-e70a-4f75-aa89-3455c40521ef.PNG">
+
+<img width="600" alt="BRFC features sorted descending" src="https://user-images.githubusercontent.com/104927745/194767371-dc53d93b-d274-4596-964e-ae4d41f68aee.PNG">
+
 
 ## Summary
