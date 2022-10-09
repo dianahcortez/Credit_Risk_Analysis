@@ -44,3 +44,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 ## Summary
+- Looking back at all models reviewed the Ensemble AdaBoost Classifier model provided the best results for our data set, with a Balanced Accuracy resuult of 93.2%, precision of 9%, recall of 92% and F1 score of 16%.
+- Future recomendations for analysis would be to dive deeper into the ratio of "high risk" to "low risk" applications.  The original data set was comprised of 99% "low risk" and only 1% of "high risk" applications.  This could lead to our results from machine learning algorithms drawing results from an unbalanced dataset, thus skewing the results.  Banks might not be willing to accept this margin of risk.
+
+<img width="600" alt="Summary Results from all Models" src="https://user-images.githubusercontent.com/104927745/194768177-a5a8b30f-bc41-4d79-9849-82981873dc38.PNG">
